@@ -1,0 +1,6 @@
+# Abaikan semua file dan folder
+*
+
+# Pengecualian (Hanya izinkan file ini)
+!.gitignore
+!README.md
